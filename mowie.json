@@ -1,0 +1,104 @@
+[
+  {
+    "name": "ALIEN: ROMULUS 2024",
+    "name:lv": "ENGLISH",
+    "category": "SCIENCE FICTION",
+    "info": {
+      "poster": "https://hips.hearstapps.com/hmg-prod/images/romul-004b-g-spa-es-70x100-66607a64bef44.jpg?resize=980:*",
+      "rating": "5.5",
+      "genre": [
+        "Science Fiction",
+        "Action"
+      ],
+      "synopsis": "Di luar angkasa lepas, probe angkasa lepas Weyland-Yutani menemui dan menyiasat bangkai USCSS Nostromo (kapal dari Alien asal), mendapatkan semula objek organik kecil. Dipindahkan ke dalam kapal yang lebih besar, objek itu dibuka dan sebahagian daripadanya dikeluarkan dari bilik; bahagian lain tertumpu pada, mendedahkan bentuk Xenomorph di dalamnya.Rain Carradine, seorang anak yatim, bekerja dengan abang angkatnya Andy, manusia sintetik yang rosak yang diprogramkan semula oleh bapa Rain untuk memastikan dia selamat, di koloni perlombongan di planet Jackson's Star. Setelah bekerja mengikut jumlah jam yang dikontrak, Rain mahu meninggalkan planet ini untuk kehidupan baharu di Yvaga III yang jauh; walau bagaimanapun, kerani Weyland-Yutani sebaliknya menggandakan masa kontraknya, dan serangan ke atas Andy oleh tiga punk remaja menghalangnya daripada bertengkar lebih lanjut."
+    },
+    "video": "https://stream.hownetwork.xyz/xxx/alien-romulus-2024-webdl_X_b055dee1/26/480.m3u8"
+  },
+  {
+    "name": "Another Movie",
+    "name:lv": "Cits filma",
+    "category": "Comedy",
+    "info": {
+      "poster": "http://poster/another_image.jpg",
+      "rating": "7.2",
+      "genre": [
+        "comedy",
+        "romance"
+      ],
+      "synopsis": "A lighthearted romantic comedy about unexpected love at a summer festival."
+    },
+    "video": "http://video/another_file.mp4"
+  },
+  {
+    "name": "Test serial",
+    "category": "Drama",
+    "info": {
+      "genre": [
+        "drama",
+        "history"
+      ],
+      "synopsis": "A deep dive into the lives of individuals during a significant historical event."
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "info": {
+          "genre": [
+            "drama",
+            "history"
+          ]
+        },
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Intro",
+            "info": {
+              "plot": "Something happens...",
+              "cast": [
+                "John Dow1",
+                "Jane Dow2"
+              ]
+            },
+            "video": "http://episodes/file.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Another Series",
+    "category": "Thriller",
+    "info": {
+      "genre": [
+        "thriller",
+        "mystery"
+      ],
+      "synopsis": "A thrilling journey filled with twists and turns as secrets begin to unravel."
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "info": {
+          "genre": [
+            "thriller",
+            "mystery"
+          ]
+        },
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Pilot",
+            "info": {
+              "plot": "A mysterious event unfolds...",
+              "cast": [
+                "Alice Smith",
+                "Bob Brown"
+              ]
+            },
+            "video": "http://episodes/another_file.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
