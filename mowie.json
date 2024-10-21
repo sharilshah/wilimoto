@@ -30,18 +30,14 @@
               ]
             },
             "video": "http://episodes/file.mp4"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Another Series",
-    "category": "Thriller",
-    "info": {
-      "genre": [
-        "thriller",
-        "mystery"
+ 	 },
+ 	 {
+   	 "name": "Another Series",
+   	 "category": "Thriller",
+   	 "info": {
+    	 "genre": [
+     	 "thriller",
+         "mystery"
       ],
       "synopsis": "A thrilling journey filled with twists and turns as secrets begin to unravel."
     },
