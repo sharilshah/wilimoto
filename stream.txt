@@ -2999,36 +2999,35 @@ https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title=" ASTRO GO" group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" tvg-logo="https://iili.io/1NK3OJ.png",104 Astro Ria HD
-https://linears-playback.astro.com.my/vsg/41AzOOiRtNHL_h4U_rWhF5Fyz_t3KMtslIz35NyOC0blg=X7UQ/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41AzOOiRtNHL_h4U_rWhF5F3wHxWjvRaG_p8MJVNuWCn4=0F3A/dash-wv/jitp-linearwm/1004/default_ott.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title=" ASTRO GO" group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" tvg-logo="https://iili.io/1Nft6B.png",105 Astro Prima HD 
-https://linears-playback.astro.com.my/vsg/41x8kjTCKrADaOIjHlUTIWlqMdSSVI0VV2uyOU56FeXoA=vNRj/dash-wv/jitp-dashisowm/1000/default_ott.mpd
-  
+https://linears-playback.astro.com.my/vsg/41x8kjTCKrADaOIjHlUTIWlhnnYMl_B8aW1_lGTmgUEYY=BRP3/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title=" ASTRO GO" group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" tvg-logo="https://iili.io/1Nfp8F.png",107 Astro Warna HD
-https://linears-playback.astro.com.my/vsg/41y3KLsdn4nue2M4XohPZLNiRHuLt_5p-nIcwwcQIlW6o=posB/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41y3KLsdn4nue2M4XohPZLNq5WVQJCC0-QqVBU7A5mbj0=vwWV/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="Astro" tvg-name="Astro Citra HD" group-title=" ASTRO GO" group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" tvg-logo="https://iili.io/1Nfyyg.png",108 Astro Citra HD 
-https://linears-playback.astro.com.my/vsg/41Q6R8JFQtgIeYu6zGvEGMOFz8i80vj9TdWZZDCzjTdXk=bFPY/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-  
+https://linears-playback.astro.com.my/vsg/41Q6R8JFQtgIeYu6zGvEGMOIqqvNpsgpguuzEWrNQfmes=kI-m/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="BoxOfficeThangathirai" tvg-name="ABO Movies Thangathirai HD" group-title=" ASTRO GO" group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" tvg-logo="https://iili.io/GM3BDB.png",241 Box Office Movies Thangathirai HD
-https://linears-playback.astro.com.my/vsg/41oq0sEp_yDoa7WdhseOIV0hbL-VNsD2Y3P62Bsq3ZPak=jj09/dash-wv/jitp-linearwm/2109/default_ott.mpd
-
+https://linears-playback.astro.com.my/vsg/41oq0sEp_yDoa7WdhseOIV0pTMgiVrv7kFMs1qI2mNDo4=TGxg/dash-wv/jitp-linearwm/2109/default_ott.mpd
 
 
 
