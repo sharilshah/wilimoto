@@ -5,7 +5,7 @@
       "category": "Action",
       "info": {
         "poster": "https://hips.hearstapps.com/hmg-prod/images/romul-004b-g-spa-es-70x100-66607a64bef44.jpg",
-        "plot": "Luka, a young man from the settlement area, grew up surrounded by unhealthy elements such as drug addiction, prostitution and gangsterism. Despite coming from such a background, Luka tries to live a normal life. He has a conflict with Bono since they were teenagers when Bono and his gang tried to blackmail his mother`s stall. Luka refuses to accept injustices and will always help whenever he can but the cards are stacked against him. He begins to rebel against the wrongs that are happening around him.",
+        "plot": "Alien: Romulus (2024) Saat mengais-ngais bagian dalam stasiun luar angkasa yang terbengkalai, sekelompok penjajah ruang angkasa muda berhadapan langsung dengan bentuk kehidupan yang paling mengerikan di alam semesta.",
         "rating": "5.5",
         "genre": [
           "drama",
@@ -16,62 +16,67 @@
     },
     {
         "name": "Memoir Seorang Guru 2024",
-        "name:lv": "Movie",
-        "category": "Biography, Drama, History",
+        "category": "Movie",
         "info": {
-          "poster": "https://hips.hearstapps.com/hmg-prod/images/romul-004b-g-spa-es-70x100-66607a64bef44.jpg",
-          "plot": "Luka, a young man from the settlement area, grew up surrounded by unhealthy elements such as drug addiction, prostitution and gangsterism. Despite coming from such a background, Luka tries to live a normal life. He has a conflict with Bono since they were teenagers when Bono and his gang tried to blackmail his mother`s stall. Luka refuses to accept injustices and will always help whenever he can but the cards are stacked against him. He begins to rebel against the wrongs that are happening around him.",
-          "rating": "5.5",
+          "poster": "https://storage.flixi.com/movie/poster_path/w342/1042598_memoir-seorang-guru.jpg",
+          "bg": "https://storage.flixi.com/movie/poster_path/w342/1042598_memoir-seorang-guru.jpg",
+          "plot": "Memoir Seorang Guru (2024) Sunan, seorang guru sekolah dasar di kota yang keras kepala dan temperamental meninggalkan kota dan pergi ke sebuah sekolah di desa, berharap menemukan kedamaian setelah kehilangan istrinya. Siapa sangka, ia dan putrinya akan menaiki roller coaster yang penuh emosi.",
+          "backdrop": "https://storage.flixi.com/movie/poster_path/w342/1042598_memoir-seorang-guru.jpg",
           "director": [
-          "Kyoll Hamzah"
-        ],
+            "Kyoll Hamzah"
+          ],
           "cast": [
-          "Rosyam Nor",
-          "Johan As'Ari",
-          "Nabila Huda",
-          "Johan As'Ari",
-          "Nabila Huda",
-          "Johan As'Ari",
+            "Rosyam Nor",
+            "Johan As'Ari",
+            "Nabila Huda",
+            "Johan As'Ari",
+            "Nabila Huda",
+            "Johan As'Ari"
           ],
           "genre": [
-          "drama",
-          "history"
+            "drama",
+            "history"
           ],
-          "country": "Malaysia",
-          "premiere": "2024",
-          "duration": "1h 30m"
-        ],
+          "duration": "1h 30m",
+          "rating": "5.5",
+          "release": "2024",
+          "country": "Malaysia"
+        },
         "video": "https://stream.hownetwork.xyz/xxx/memoir-seorang-guru-2024-webdl_X_6f352d8e/26/480.m3u8"
-    },
-    {
-      "name": "Test serial",
-      "category": "Drama",
-      "info": {
-        "genre": [
-          "drama",
-          "history"
-        ]
-      },
-      "seasons": [
+        },
         {
-          "season": 1,
-          "info": {
-            "genre": [
-              "drama",
-              "history"
+            "name": "Tulsa King 2022",
+            "category": "Drama",
+            "info": {
+              "genre": [
+                "drama",
+                "history"
+              ]
+            },
+            "seasons": [
+              {
+                "season": 1,
+                "info": {
+                  "genre": [
+                    "drama",
+                    "history"
+                  ]
+                },
+                "episodes": [
+                  {
+                    "episode": 1,
+                    "name": "Intro",
+                    "info": {
+                      "plot": "Something happens...",
+                      "cast": [
+                        "John Dow1",
+                        "Jane Dow2"
+                      ]
+                    },
+                    "video": "http://episodes/file.mp4"
+                }
             ]
-          },
-          "episodes": [
-            {
-              "episode": 1,
-              "name": "Intro",
-              "info": {
-                "plot": "Something happens...",
-                "cast": [
-                  "John Dow1",
-                  "Jane Dow2"
-                ]
-              },
-              "video": "http://episodes/file.mp4"
-            }
-          ]
+          }
+        ]
+      }
+    ]
