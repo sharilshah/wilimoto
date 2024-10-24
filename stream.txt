@@ -2643,6 +2643,8 @@ https://d1sz44a1d86dgq.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/f3d65152120615b6eef9b.png" tvg-id="W-Sport",W-Sport
 https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2650,6 +2652,8 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"KsTvR0StICr8wuhz19w5Fg", "kid":"4r0pp0ZaSuSGp1ACMFgKbg" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/5f88f4c83df61f6896eee.png" tvg-id="SPOTV",SPOTV
 https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2676,6 +2680,8 @@ https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"YQmmvYbtrvEye7VRF9GQGw", "kid":"nNGsnmSYTwCdAAt2p4yFNQ" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/9b6896ed919c7fd15ce01.png" tvg-id="829.astro",Astro Box Office Sport
 <<https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd>>
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2690,6 +2696,8 @@ https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"xSfUpbPUNkMSpOeLnenogA", "kid":"XLBdFMjdRWO5VuN9Cg8Rdw" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/8b9be78d45d64af83200c.png" tvg-id="beINSports2",beIN Sports 2
 https://dcqkiaqc3sngm.cloudfront.net/CH4/masterCH4.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2697,6 +2705,8 @@ https://dcqkiaqc3sngm.cloudfront.net/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"ubYV/h3VVgYX3hkdJTwCvA", "kid":"5Uay6K31Toe3u2wM1szC2g" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/5e4a76a2f67d30080d63f.png" tvg-id="beINSports3",beIN Sports 3
 https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2704,6 +2714,8 @@ https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"WwDUNB6QswIrXlcTmuirFg", "kid":"SiZ7oJs6Q5aTZO53923WIg" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/b9bcb8b113bc1e58e50bb.png" tvg-id="beINSports3",beIN Sports 4
 https://linear05-playback.sooka.my/CH2/masterCH2.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2711,6 +2723,8 @@ https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"YQmmvYbtrvEye7VRF9GQGw", "kid":"nNGsnmSYTwCdAAt2p4yFNQ" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/47c8bb0c2539e976de2bf.png" tvg-id="beINSports3",beIN Sports 5
 https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2718,6 +2732,8 @@ https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/cbef24e542af1fcfacdc1.png" tvg-id="Asian Food Network HD",Asian Food Network
 https://linear04-playback.sooka.my/CH4/masterCH4.mpd>>
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2725,6 +2741,8 @@ https://linear04-playback.sooka.my/CH4/masterCH4.mpd>>
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"YQmmvYbtrvEye7VRF9GQGw", "kid":"nNGsnmSYTwCdAAt2p4yFNQ" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/74751266d5dd5e4b01aab.png" tvg-id="AsianGames1",ASIAN GAMES 1
 <<https://linear06-playback.sooka.my/CH2/masterCH2.mpd>>
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2732,6 +2750,8 @@ https://linear04-playback.sooka.my/CH4/masterCH4.mpd>>
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/74751266d5dd5e4b01aab.png" tvg-id="AsianGames2",ASIAN GAMES 2
 <<https://linear04-playback.sooka.my/CH3/masterCH3.mpd>>
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2739,6 +2759,8 @@ https://linear04-playback.sooka.my/CH4/masterCH4.mpd>>
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"uL81rubByLqIQmh8S/RXlA", "kid":"76sSYpjDR+C51N9vxDbMlg" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/74751266d5dd5e4b01aab.png" tvg-id="AsianGames3",ASIAN GAMES 3
 <<https://linear06-playback.sooka.my/CH3/masterCH3.mpd>>
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2753,6 +2775,8 @@ https://linear04-playback.sooka.my/CH4/masterCH4.mpd>>
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"xPNRHhKT5X4xz0IoNVUaag", "kid":"bvJHEbeaTBOk/m1Ndg2EPA" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="SOOKA MAIN CHANNEL" tvg-logo="https://telegra.ph/file/fdae501cefcf5faaeeba3.png" tvg-id="xxx",ADHOC 1
 <<https://d277c08tzca9og.cloudfront.net/CH5/masterCH5.mpd>>
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UQXdPREEwWVdRdFlqRXpOaTAwWXpsa0xXRm1Oall0TldVM1l6TmtZamxoT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc4NDA5MiwiaWF0IjoxNzI5MTgwMDkyfQ.LRy7n4DZ3ynCgklJUSa5DYs_dZetVIcywatN1_1y4rY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2982,7 +3006,9 @@ https://linear05-playback.sooka.my/CH2/masterCH2.mpd
   
   
 ●●●●● #EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://dl.dropbox.com/scl/fi/1tkvjgdvijgvs76m108zw/ch5.png?rlkey=3gii1v2ofhgnmdyoct6t2y0w1&st=846fr21k&dl=0",Channel 5 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd #EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://dl.dropbox.com/scl/fi/agkwacfj7fr30cfocb7pc/ch8.png?rlkey=3jg3vpt9xch5o8bmzxbbnkoxn&st=rz0wbrkd&dl=0",Channel 8 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd #EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://dl.dropbox.com/scl/fi/vweqr1c4yi9uxczb47zwa/chu.png?rlkey=hsgrz75sw3i0qehqbnby4aiuu&st=bclvasjq&dl=0",Channel U #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
- #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=2s8z%2buGAFtPGNxcjDuXCIOx8h0s%3d #EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://dl.dropbox.com/scl/fi/cl3yci6npwj2cfaj3awp9/cna.png?rlkey=c75pyxpuhdz522fg1iti66wk7&st=edz81q7j&dl=0",CNA https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8 #EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://dl.dropbox.com/scl/fi/ghux2zmwpznplp4pkla0h/suria.png?rlkey=rex9whcg3zpram0cmwak2u2kg&st=mg96ml9z&dl=0",Suria #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd #EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://dl.dropbox.com/scl/fi/35yom1qdhhyvqvhvdl2to/vasantham.png?rlkey=2vckxmxyxulq1px3tx6hs9ezx&st=ooc83i2r&dl=0",Vasantham #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd #KODIPROP:inputstream.adaptive.license_type=clearkey  
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=2s8z%2buGAFtPGNxcjDuXCIOx8h0s%3d #EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://dl.dropbox.com/scl/fi/cl3yci6npwj2cfaj3awp9/cna.png?rlkey=c75pyxpuhdz522fg1iti66wk7&st=edz81q7j&dl=0",CNA https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8 #EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://dl.dropbox.com/scl/fi/ghux2zmwpznplp4pkla0h/suria.png?rlkey=rex9whcg3zpram0cmwak2u2kg&st=mg96ml9z&dl=0",Suria #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd #EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://dl.dropbox.com/scl/fi/35yom1qdhhyvqvhvdl2to/vasantham.png?rlkey=2vckxmxyxulq1px3tx6hs9ezx&st=ooc83i2r&dl=0",Vasantham #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+ #KODIPROP:inputstream.adaptive.license_type=clearkey  
   
   
   
