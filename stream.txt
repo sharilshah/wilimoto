@@ -3004,7 +3004,33 @@ https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg
 //////////////////////// NEW CHANNEL ADDING \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   
   
- tvg-logo="https://1.bp.blogspot.com/-7410ppwLv2Y/YJZybaRIr6I/AAAAAAAAEyk/shxOUXe0af85p9boxM7fpcEOCypKEBGrwCLcBGAsYHQ/s720/tv3-p.png" group-title="● MALAYSIA ●",TV3 http://38.47.189.134:1234/stream/astro/tv3/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-H235qH1QxDE/YNc6AYqo8oI/AAAAAAAAGVM/KKJf2AHomoYd-2m-BB2cNzQpnEoFM8B2gCLcBGAsYHQ/s720/tv6-malaysia-p.png" group-title="● MALAYSIA ●",TV6 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6 #EXTINF:-1 tvg-id="148" tvg-logo="https://1.bp.blogspot.com/-rks53xDizjs/YJZyTkhe8JI/AAAAAAAAExQ/ERtk2kveQdcO7kFHl7Y6Gbz7ySeZJOMJgCLcBGAsYHQ/s720/8tv-p.png" group-title="● MALAYSIA ●",8TV http://38.47.189.134:1234/stream/astro/bollyonehd/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d #EXTINF:-1 tvg-id="149" tvg-logo="https://1.bp.blogspot.com/-TaBsKG-Hy8o/YJZybu0aK6I/AAAAAAAAEyo/PQq0mODa1zALTiwD7myVAGb1WQ-8haC3ACLcBGAsYHQ/s720/tv9-p.png" group-title="● MALAYSIA ●",TV9 http://38.47.189.134:1234/stream/astro/tv9/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d #EXTINF:-1 tvg-id="146" tvg-logo="https://1.bp.blogspot.com/-1O5co36K2EY/YJZyY1iNgvI/AAAAAAAAEyw/o07C4f2zt5YP74bR4OxTpPCnkBJYQCpOACPcBGAYYCw/s720/okey-p.png" group-title="● MALAYSIA ●",TV OKEY https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e #EXTINF:-1 group-title="● MALAYSIA ●" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjcOb_uhCmYOX-98_K6KW5e2kbN0t4Nv7GfFzRX0QVBoULOGTUlWlAIKnRAbpu-7mwceKS3LcwMd9u099cdcKXhRWUUXDiVWfEsr8Il575lh6Jh1u57DFO2VarLcPHNhbLEXiRfOjgo3Sko4rIhzaEIZBj6_UwT0d9Ixr8Rizyj1zDQff4bqH0JDblD=s720" , Suria https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd #EXTINF:-1 group-title="● MALAYSIA ●" tvg-logo="https://1.bp.blogspot.com/-fQgaeJtm5ro/YauUAq5M_rI/AAAAAAAAILA/yryfWMlF2L4OgifiK5Z0q1i9ABMjf_o3wCNcBGAsYHQ/s720/awesome-p.png" , Awesome TV http://38.47.189.134:1234/stream/astro/awesometv/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d #EXTINF:-1 tvg-ID="TVikim" group-title="● MALAYSIA ●"tvg-logo="https://1.bp.blogspot.com/-HSKsXjGPzYw/YJZyXu0hPtI/AAAAAAAAEyA/hvYo0sy9zR0wAqE1-B0KUzi5HZwNwwETgCLcBGAsYHQ/s720/ikim-p.png",Tv Ikim https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8 #EXTINF:-1 tvg-id="AstroAwaniHD.My" tvg-logo="https://dl.dropbox.com/scl/fi/ked0onft5415e9ml5hpl3/awani.png?rlkey=2ehlekrvgyytskr8i0d1r9jzy&dl=0" group-title="● MALAYSIA ●",Astro Awani https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8 #EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astroaura.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png",Astro Aura #http://abcnew.site:8880/12mmk180105/81462658/71025 #EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astroprima.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png",Astro Prima #http://abcnew.site:8880/12mmk180105/81462658/1702 #EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astrorania.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania http://38.47.189.134:1234/stream/astro/astrorania/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d #EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astroria.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Astro Ria http://38.47.189.134:1234/stream/astro/astroceria/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d #EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astroria.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png?20240207105003",ASTRO AURA http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3467 ●●●●● SINGAPORE
+ tvg-logo="https://1.bp.blogspot.com/-7410ppwLv2Y/YJZybaRIr6I/AAAAAAAAEyk/shxOUXe0af85p9boxM7fpcEOCypKEBGrwCLcBGAsYHQ/s720/tv3-p.png" group-title="● MALAYSIA ●",TV3 http://38.47.189.134:1234/stream/astro/tv3/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-H235qH1QxDE/YNc6AYqo8oI/AAAAAAAAGVM/KKJf2AHomoYd-2m-BB2cNzQpnEoFM8B2gCLcBGAsYHQ/s720/tv6-malaysia-p.png" group-title="● MALAYSIA ●",TV6 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6 
+
+#EXTINF:-1 tvg-id="148" tvg-logo="https://1.bp.blogspot.com/-rks53xDizjs/YJZyTkhe8JI/AAAAAAAAExQ/ERtk2kveQdcO7kFHl7Y6Gbz7ySeZJOMJgCLcBGAsYHQ/s720/8tv-p.png" group-title="● MALAYSIA ●",8TV http://38.47.189.134:1234/stream/astro/bollyonehd/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d 
+
+#EXTINF:-1 tvg-id="149" tvg-logo="https://1.bp.blogspot.com/-TaBsKG-Hy8o/YJZybu0aK6I/AAAAAAAAEyo/PQq0mODa1zALTiwD7myVAGb1WQ-8haC3ACLcBGAsYHQ/s720/tv9-p.png" group-title="● MALAYSIA ●",TV9 http://38.47.189.134:1234/stream/astro/tv9/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d 
+
+#EXTINF:-1 tvg-id="146" tvg-logo="https://1.bp.blogspot.com/-1O5co36K2EY/YJZyY1iNgvI/AAAAAAAAEyw/o07C4f2zt5YP74bR4OxTpPCnkBJYQCpOACPcBGAYYCw/s720/okey-p.png" group-title="● MALAYSIA ●",TV OKEY https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e 
+
+#EXTINF:-1 group-title="● MALAYSIA ●" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjcOb_uhCmYOX-98_K6KW5e2kbN0t4Nv7GfFzRX0QVBoULOGTUlWlAIKnRAbpu-7mwceKS3LcwMd9u099cdcKXhRWUUXDiVWfEsr8Il575lh6Jh1u57DFO2VarLcPHNhbLEXiRfOjgo3Sko4rIhzaEIZBj6_UwT0d9Ixr8Rizyj1zDQff4bqH0JDblD=s720" , Suria https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd 
+
+#EXTINF:-1 group-title="● MALAYSIA ●" tvg-logo="https://1.bp.blogspot.com/-fQgaeJtm5ro/YauUAq5M_rI/AAAAAAAAILA/yryfWMlF2L4OgifiK5Z0q1i9ABMjf_o3wCNcBGAsYHQ/s720/awesome-p.png" , Awesome TV http://38.47.189.134:1234/stream/astro/awesometv/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d 
+
+#EXTINF:-1 tvg-ID="TVikim" group-title="● MALAYSIA ●"tvg-logo="https://1.bp.blogspot.com/-HSKsXjGPzYw/YJZyXu0hPtI/AAAAAAAAEyA/hvYo0sy9zR0wAqE1-B0KUzi5HZwNwwETgCLcBGAsYHQ/s720/ikim-p.png",Tv Ikim https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwaniHD.My" tvg-logo="https://dl.dropbox.com/scl/fi/ked0onft5415e9ml5hpl3/awani.png?rlkey=2ehlekrvgyytskr8i0d1r9jzy&dl=0" group-title="● MALAYSIA ●",Astro Awani https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8 
+
+#EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astroaura.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png",Astro Aura #http://abcnew.site:8880/12mmk180105/81462658/71025 
+
+#EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astroprima.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png",Astro Prima #http://abcnew.site:8880/12mmk180105/81462658/1702 
+
+#EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astrorania.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania http://38.47.189.134:1234/stream/astro/astrorania/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d 
+
+#EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astroria.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",Astro Ria http://38.47.189.134:1234/stream/astro/astroceria/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d 
+
+#EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astroria.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png?20240207105003",ASTRO AURA http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3467 ●●●●● SINGAPORE
   
   
   
@@ -3061,103 +3087,103 @@ https://linears-playback.astro.com.my/vsg/41oq0sEp_yDoa7WdhseOIV0jQGoL14_QLej-Uz
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",WELCOME@Sharil_Iptv@REBORN
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",WELCOME@Sharil_Iptv@!!!!
-https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",PSJ TV_🇲🇨
+https://www.dropbox.com/s/odrcf9c1jseu07a/Sharil_Iptv_adminGroup.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",PSJ TV_🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Football•🇲🇨	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",ID~Football•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sport~1•🇲🇨	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title=Sharil_Iptv@Relax",ID~Sport~1•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sport~2•🇲🇨	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",ID~Sport~2•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Spotv•🇲🇨	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",ID~Spotv•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SOCCER_HD.(ext)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",SOCCER_HD.(ext)
 http://extraott.com/live/6945574629/7169628753/45018.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPORSTAR_1.(ext)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",SPORSTAR_1.(ext)
 http://extraott.com/live/6945574629/7169628753/400200725.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPORSTAR_2_HD.(ext)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",SPORSTAR_2_HD.(ext)
 http://extraott.com/live/6945574629/7169628753/400200724.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPORSTAR_2_SD.(ext)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",SPORSTAR_2_SD.(ext)
 http://extraott.com/live/6945574629/7169628753/400200723.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPOTV_1.(ext)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg" group-title="Sharil_Iptv@Relax",SPOTV_1.(ext)
 http://extraott.com/live/6945574629/7169628753/400200727.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SPOTV_2.(ext)
+#EXTINF:-1 tvg-logo=https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg group-title="Sharil_Iptv@Relax",SPOTV_2.(ext)
 http://extraott.com/live/6945574629/7169628753/400200726.ts
-#EXTINF:-1  group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO~PREMIER FHD 
+#EXTINF:-1  group-title="Sharil_Iptv@Relax" tvg-logo=https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg ASTRO~PREMIER FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1  group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO~PREMIER 2 FHD 
+#EXTINF:-1  group-title="Sharil_Iptv@Relax" tvg-logo=https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg ASTRO~PREMIER 2 FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1  group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO~GRANDSTAND FHD 
+#EXTINF:-1  group-title="Sharil_Iptv@Relax" tvg-logo=https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg ASTRO~GRANDSTAND FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1  group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO~FOOTBALL FHD 
+#EXTINF:-1  group-title="Sharil_Iptv@Relax" tvg-logo=https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg ASTRO~FOOTBALL FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22:59:72
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(ts)
-http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(cdn)
+#EXTINF:-1  tvg-logo=https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",INDOSIAR-HD(ts)
+http://Sharil_Iptv@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",INDOSIAR-HD(cdn)
 http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",INDOSIAR-HD(opx)
 http://opplex.tv:8080/3116580700/0700/350972
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(opx2)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",INDOSIAR-HD(opx2)
 http://opplex.tv:8080/live/global/global/350972.ts
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg", INDOSIAR_mpd(0tt/tivimate)
+#EXTINF:-1 group-title="Sharil_Iptv@Relax" tvg-logo="https://i.ibb.co/hHs8y6F/Sharil_Iptv-football-logo.jpg", INDOSIAR_mpd(0tt/tivimate)
 https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__(xtv3)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",INDOSIAR__(xtv3)
 http://xtv.ooo:8080/live/Galaxy.2/4321/350972.ts
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR__x
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",INDOSIAR__x
 http://xtv.ooo:8080/live/35588981/18988553/350972.ts
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv1)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",INDOSIAR-HD_(xtv1)
 http://xtv.ooo:8080/0966717777/0966717777/350972
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD_(xtv2)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",INDOSIAR-HD_(xtv2)
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar|xtv_~
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",Indosiar|xtv_~
 http://xtv.ooo:8080/359052742/470428329/350972
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",Indosiar.(indihome)
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Sharil_Iptv@Relax",Indosiar.(indihome)
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MOJI_(opx)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/Sharil_Iptv-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MOJI_(opx)
 http://opplex.tv:8080/3116580700/0700/350997
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",MOJI_(xtv)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sharil_Iptv@Relax",MOJI_(xtv)
 http://xtv.ooo:8080/0966717777/0966717777/350997
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",SCTV(indihome)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sharil_Iptv@Relax",SCTV(indihome)
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TVONE(indihome)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/Sharil_Iptv-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TVONE(indihome)
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TRANSTV(indihome)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sharil_Iptv@Relax",TRANSTV(indihome)
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",TRANS7(indihome)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sharil_Iptv@Relax",TRANS7(indihome)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ShareExt@Relax", RCTI.HD.(ext)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Sharil_Iptv@Relax", RCTI.HD.(ext)
 http://extraott.com/live/6945574629/7169628753/400200742.ts
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ShareExt@Relax", RCTI.SD.(ext)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Sharil_Iptv@Relax", RCTI.SD.(ext)
 http://extraott.com/live/6945574629/7169628753/191803.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",🇲🇨 MNCTV(ext)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sharil_Iptv@Relax",🇲🇨 MNCTV(ext)
 http://extraott.com/live/6945574629/7169628753/400200743.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-1_HK
-http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419538&extension=ts&play_
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-2_HK
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sharil_Iptv@Relax",NOW.SPORTS-1_HK
+http://Sharil_Iptv@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419538&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sharil_Iptv@Relax",NOW.SPORTS-2_HK
 http://tv.cloudcdn.me:80/live.ts?channelId=129129&uid=7238&deviceMac=00:1A:79:22:59:72
-#http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419539&extension=ts&play_
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-3_HK
+#http://Sharil_Iptv@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419539&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sharil_Iptv@Relax",NOW.SPORTS-3_HK
 http://tv.cloudcdn.me:80/live.ts?channelId=129130&uid=7238&deviceMac=00:1A:79:22:59:72
-#http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419540&extension=ts&play_
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-4_HK
+#http://Sharil_Iptv@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419540&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sharil_Iptv@Relax",NOW.SPORTS-4_HK
 http://tv.cloudcdn.me:80/live.ts?channelId=129131&uid=7238&deviceMac=00:1A:79:22:59:72
-#http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419541&extension=ts&play_
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-5_HK
+#http://Sharil_Iptv@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419541&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sharil_Iptv@Relax",NOW.SPORTS-5_HK
 http://tv.cloudcdn.me:80/live.ts?channelId=129132&uid=7238&deviceMac=00:1A:79:22:59:72
-#http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419542&extension=ts&play_
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-6_HK
+#http://Sharil_Iptv@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419542&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sharil_Iptv@Relax",NOW.SPORTS-6_HK
 http://tv.cloudcdn.me:80/live.ts?channelId=129133&uid=7238&deviceMac=00:1A:79:22:59:72
-#http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419543&extension=ts&play_
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-7_HK
+#http://Sharil_Iptv@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419543&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sharil_Iptv@Relax",NOW.SPORTS-7_HK
 http://tv.cloudcdn.me:80/live.ts?channelId=129134&uid=7238&deviceMac=00:1A:79:22:59:72
-#http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419544&extension=ts&play_
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",NOW.SPORTS-PRIME_HK
+#http://Sharil_Iptv@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419544&extension=ts&play_
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sharil_Iptv@Relax",NOW.SPORTS-PRIME_HK
 http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=419545&extension=ts&play_
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="ShareExt@Relax",SSC_1
 http://shareext@line.clear-ocean.link/play/live.php?mac=00:1A:79:00:01:E7&stream=493108&extension=ts&play_ssc1
@@ -10885,4 +10911,4 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION" tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg",Hmong TV Network(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION" tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg",ISTV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/pla
