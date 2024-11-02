@@ -3003,6 +3003,16 @@ https://i.ibb.co/hLY6RCD/FIQ-photo-2024-10-18-11-54-12.jpg
 
 
 
+Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/filmcafesd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/AMC.png.webp" group-title="RDS Movies",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/amcsd/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="USA TV",WWE Network
 https://webhdrunns.mizhls.ru/lb/premium376/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="WETV USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="USA TV",WETV USA
@@ -11747,20 +11757,4 @@ https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
 https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one film
 https://linear-823.frequency.stream/mt/studio/823/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one film d
-https://linear-824.frequency.stream/mt/studio/824/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one serie
-https://linear-825.frequency.stream/mt/studio/825/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one pop
-https://linear-826.frequency.stream/mt/studio/826/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one serie Thirll
-https://linear-827.frequency.stream/mt/studio/827/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one shark tank
-https://linear-828.frequency.stream/mt/studio/828/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one thriller Tv
-https://linear-816.frequency.stream/mt/studio/816/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one best of
-https://linear-815.frequency.stream/mt/studio/815/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one hits action
-https://linear-829.frequency.stream/mt/studio/829/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/
